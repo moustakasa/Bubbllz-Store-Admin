@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bubbllz Store Admin</string>
+    <string name="username">Όνομα χρήστη</string>
+    <string name="button_sign_in">Είσοδος</string>
+    <string name="button_check_ticketNumber">Έλεγχος Ticket Number</string>
+    <string name="password">Κωδικός</string>
+    <string name="ticketNumber">Παρακαλώ δώστε Ticket Number:</string>
+    <string name="ticketNumberInput">Ticket Number(6ψήφιο)</string>
+    <string name="discountMessage">Το Ticket Number είναι ΕΓΚΥΡΟ για δώρο</string>
+    <string name="noDiscountMessage">Το Ticket Number ΔΕΝ είναι ΕΓΚΥΡΟ για δώρο</string>
+    <string name="checkIfDiscountGiven">Δώσατε το δώρο;</string>
+    <string name="yesButton">Ναι</string>
+    <string name="noButton">Όχι</string>
+    <string name="yesChoice">Ναι</string>
+    <string name="noChoice">Όχι</string>
+</resources>
